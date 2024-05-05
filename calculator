@@ -2,3 +2,5 @@ Name: Faseeh Ul Hassan
 Roll no: 23-st-019
 Addition:
 cout<<a+b;
+Subtraction:
+cout<<a-b;
