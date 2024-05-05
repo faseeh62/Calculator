@@ -6,3 +6,5 @@ Subtraction:
 cout<<a-b;
 Multiplication:
 cout<<a*b;
+Division:
+cout<<a/b;
